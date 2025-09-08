@@ -30,10 +30,10 @@ This repository contains **unit testing** results performed on simple Python cod
 ---
 
 ## 📄 PDF Report
-**Filename:** `Unit_Testiranje_Assert_Funkcije.pdf`  
+**Filename:** `Unit testiranje korištenjem Assert funkcija.pdf`  
 **Description:** Contains code examples, assert function usage, test results, and analysis.
 
-[📥 Download PDF](./report/Unit_Testiranje_Assert_Funkcije.pdf)
+[📥 Download PDF](./Report/Unit%20testiranje%20korištenjem%20Assert%20funkcija.pdf)
 
 ---
 
