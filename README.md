@@ -40,9 +40,13 @@ This repository contains **unit testing** results performed on simple Python cod
 ## 📂 Repository Structure
 ```
 UNIT-Testing---Unittest/
+├─ .idea/
+├─ Report/
+│ └─ Unit_Testiranje_Assert_Funkcije.pdf
+├─ pycache/
 ├─ README.md
-└─ report/
-└─ Unit_Testiranje_Assert_Funkcije.pdf
+├─ simple_code.py
+└─ test_simple_code.py
 ```
 
 ---
